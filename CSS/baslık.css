@@ -1,0 +1,18 @@
+@charset "utf-8";
+#baslık {
+	background-color: #AF7AB3;
+	height: 150px;
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#baslıkresim {
+	background-color: #AF7AB3;
+	float: left;
+	height: 50px;
+	width: 60px;
+	margin-right: 1px;
+}
+#baslık h1 .ana strong {
+	font-weight: 1500;
+}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Fantastik Filmler</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>FANTASTİK FİLMLER</h1>
+<div align="center">
+  <table width="759" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="241"><img src="../images/yüzük kardeşliği.jpg" width="241" height="335" alt="yüzük" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/yüzük kardeşliği.jpg" /></td>
+      <td width="241"><img src="../images/alacakaranlık.jpg" width="241" height="335" alt="alaca" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/alacakaranlık.jpg" /></td>
+      <td width="627"><img src="../images/iki kule.jpg" width="241" height="335" alt="ikikule" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/iki kule.jpg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

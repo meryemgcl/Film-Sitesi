@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Macera Filmleri</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>MACERA FİLMLERİ</h1>
+<div align="center">
+  <table width="759" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="241"><img src="../images/iyi kötü çirkin.jpg" width="241" height="335" alt="iyi kötü" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/iyi kötü çirkin.jpg" /></td>
+      <td width="240"><img src="../images/gladıator.jpg" width="241" height="335" alt="gladyatör" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/gladıator.jpg" /></td>
+      <td width="628"><img src="../images/mumya.jpg" width="241" height="335" alt="mumya" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/mumya.jpg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

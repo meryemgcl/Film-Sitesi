@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Polisiye Filmleri</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>POLİSİYE FİLMLERİ</h1>
+<div align="center">
+  <table width="759" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="241"><img src="../images/yeşil-yol.jpg" width="241" height="335" alt="yesilyol" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/yeşil-yol.jpg" /></td>
+      <td width="241"><img src="../images/baba-1..jpeg" width="241" height="335" alt="baba1" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/baba-1..jpeg" /></td>
+      <td width="627"><img src="../images/baba-2-.jpeg" width="241" height="335" alt="baba2" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/baba-2-.jpeg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

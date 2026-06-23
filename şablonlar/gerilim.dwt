@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Gerilim Filmleri</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>GERİLİM FİLMLERİ</h1>
+<div align="center">
+  <table width="759" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="241"><img src="../images/köstebek.jpg" width="241" height="335" alt="köstebek" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/köstebek.jpg" /></td>
+      <td width="241"><img src="../images/görünmeyen misafir.jpg" width="241" height="335" alt="görünmeyen" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/görünmeyen misafir.jpg" /></td>
+      <td width="621"><img src="../images/kuzuların sessizliği.jpg" width="241" height="335" alt="kuzuların sessizliği" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/kuzuların sessizliği.jpg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

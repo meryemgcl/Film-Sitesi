@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Bilim Kurgu Filmleri</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>BİLİM KURGU FİLMLERİ</h1>
+<div align="center">
+  <table width="759" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="241"><img src="../images/başlangıç.jpeg" width="241" height="335" alt="başlangıç" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/baba-1..jpeg" /></td>
+      <td width="241"><img src="../images/prestij.jpg" width="241" height="335" alt="prestij" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/prestij.jpg" /></td>
+      <td width="620"><img src="../images/yıldızlararası.jpg" width="241" height="335" alt="yıldızlar" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/yıldızlararası.jpg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Dram Filmleri</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>DRAM FİLMLERİ</h1>
+<div align="center">
+  <table width="687" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="209"><img src="../images/forrest gump.jpg" width="241" height="335" alt="forrest" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/forrest gump.jpg" /></td>
+      <td width="213"><img src="../images/esaretin-bedeli.jpeg" width="241" height="335" alt="esar" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/esaretin-bedeli.jpeg" /></td>
+      <td width="584"><img src="../images/12-öfkeli-adam.jpeg" width="241" height="335" alt="öfkeli" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/12-öfkeli-adam.jpeg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

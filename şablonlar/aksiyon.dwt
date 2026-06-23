@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Aksiyon Filmleri</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #513437;
+}
+body {
+	background-color: #d1dfbb;
+}
+</style>
+<script type="text/javascript">
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>AKSİYON FİLMLERİ</h1>
+<div align="center">
+  <table width="755" height="277" border="1" cellpadding="3" cellspacing="3">
+    <tr>
+      <td width="241"><img src="../images/kralın dönüşü.jpg" alt="kralın dönüşü" width="241" height="335" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/kralın dönüşü.jpg" onClick="MM_goToURL('parent','../video/Yüzüklerin Efendisi 3 Kralın Dönüsü Fragman (720P).mp4');return document.MM_returnValue" /></td>
+      <td width="252"><img src="../images/kara şövalye.jpg" alt="kara şövalye" width="252" height="335" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/kara şövalye.jpg" /></td>
+      <td width="584"><img src="../images/kara şövalye yükseliyor.jpg" width="226" height="335" alt="yükseliyor" longdesc="file:///C|/Users/HP/Desktop/film sitesi/images/kara şövalye yükseliyor.jpg" /></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>
